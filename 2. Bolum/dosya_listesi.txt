@@ -1,0 +1,186 @@
+.
+├── Belgesel-Kisa_film
+│   ├── 11 Haziran 2013 _ Taksim Direnişi - Gezi Parkı.flv
+│   ├── baska_bir_yolu_olmali.mp4
+│   ├── Battle4Taksim.mp4
+│   ├── Bir Başbakan İki Erdoğan.flv
+│   ├── Çünkü Ben Bu Parkı Seviyorum - Because I Love This Park (Çoc.mp4
+│   ├── direnankara_derleme.mp4
+│   ├── Direnenler Direnirken.flv
+│   ├── Diren ESKİŞEHİR!.mp4
+│   ├── #direngeziparkı - Tüyleriniz diken diken olacak.mp4
+│   ├── Direnis_geziparki.mp4
+│   ├── Direnişin Gelişimi.flv
+│   ├── Diren (Kısa Film) _ Resist (Short Film).mp4
+│   ├── Duman_eyvallah_klip_English Subtitled.mp4
+│   ├── _Ekumenopolis - the roots of Istanbul's protests - video _ World news _ guardian.co.uk .mp4
+│   ├── Gezi Parkı Araştırması - Kimler, neden oradalar ve ne istiyorlar.video
+│   ├── havadan_barikatlar_duvar_yazilari_akm.mp4
+│   ├── Neden sokaklardalar _ Adana - 9 Haziran 2013.flv
+│   ├── #occupyGEZI.mp4
+│   ├── ODA TİYATROSU SAHNESİ VİDEOLARI.flv
+│   ├── Turkey_s Civil Revolt_ Istanbul Rising.mp4
+│   ├── _Turkish PM's chilling warning - 'these protests will be over in 24 hours' _ World news _ The Guardian .mp4
+│   ├── W.C.M.T.W.S. (RESPECT) RESIST TURKEY.mp4
+│   └── _Why the Turkish protests matter to the west _ Şafak Pavey _ Comment is free _ The Guardian .mp4
+├── Bildiri
+│   ├── Emin Çölaşandan Gezi Parkı yorumu _ Sözcü Gazetesi.mp4
+│   ├── Emrah Serbes'ten Hayat Tv'ye destek ve çarpıcı acıklamalar.flv
+│   ├── Ethem Sarısülük'ün basın açıklaması - Temel Demirer konuşuyor.flv
+│   ├── Taksim Dayanışması Açıklaması 11 Haz. - Hayat Televizyonu.flv
+│   ├── TAKSİM GEZİ PARK DİRENİŞİ - LGBT BLOK - BASIN AÇIKLAMASI.mp4
+│   └── ÜMİT KOCASAKAL; YASAYA GÖRE, AVUKATLARIN İFADESİ ALINAMAZ.flv
+├── Bilgi-Information.txt
+├── Diger
+│   ├── 2013 Protests in Turkey URLs.xlsx
+│   ├── avukatlar.doc
+│   ├── #direngezi by _dtaskonak on deviantART.png
+│   ├── genel.doc
+│   ├── #OCCUPYGEZI HDR by _ISIK5 on deviantART.jpg
+│   ├── taksim1106.doc
+│   └── yaralilar_doktorlar.doc
+├── dosya_listesi.txt
+├── Eylem
+│   ├── Ankara
+│   │   ├── ANKARA TUNALI HILMI _ KENNEDY CAD. CANLI YAYIN.flv
+│   │   └── Bahçelievler-Ankara-01.06.2013-7-Cadde.mp4
+│   ├── Istanbul
+│   │   ├── 11 Haziran 2013.flv
+│   │   ├── 11 Haziran 2013 - Onbinler Taksim'de Polis Terörüne Direndi.mp4
+│   │   ├── 14 Haziran 20 -45 Taksim Meydanı. Anneler Direniyor.mp4
+│   │   ├── 31_Mayis_Norvec_Kanali_Yayini_full.ts
+│   │   ├── Çağlayan Adliyesi - Avukatlar Ayakta.flv
+│   │   ├── Çağlayan Adliyesi - Her Yer Taksim Her Yer Direniş.mp4
+│   │   ├── Çağlayan Adliyesinde Gezi parkı eylemi_avukatlar eylem yaptı.mp4
+│   │   ├── ÇARŞI-GFB-UA-Taksim_Meydanına_Girişi.flv
+│   │   ├── Devrimci Uyuma_ - İTÜ Önünde Protesto.flv
+│   │   ├── Gezi Parkı Direnişi - 11 Haziran Salı 09 -30 - 16 -00.flv
+│   │   ├── Gezi parkı müdahaleye rağmen coşkulu!.mp4
+│   │   ├── Gezi parkındaki çadırları böyle söktüler 11 Haziran 22 -20.flv
+│   │   ├── harbiye_direnisi_buyuk_mudahalenin_ardindan.mp4
+│   │   ├── Sıraselvilerdebilinclihalk.flv
+│   │   ├── TAKSİM'DE ANNE TEPKİSİ.flv
+│   │   └── Taksim Ele Geçiriliyor_01_06_2013.flv
+│   └── Izmir
+│       └── #DirenGezi Ege Tıp Seninle!.mp4
+├── Hukumet
+│   ├── Başbakan'la 'Gezi' Görüşmesi yapan Hülya Avşar'ın açıklaması.flv
+│   ├── bir referandum örneği  melih gökçek ve demokrasi.flv
+│   ├── cevik_kuvvet_kamerasi.mp4
+│   ├── GEZİ PARKI - Böyle Başbakan Bulamazsınız _.flv
+│   ├── İÇİŞLERİ BAKANI GÜLER; EYLEMLER BU ŞEKİLDE DEVAM EDEMEZ.flv
+│   ├── İstanbul Valisi Hüseyin Avni Mutlu, yaklaşık 150 kişiden oluşan Gezi Parkı eylemcisi ile görüştü..flv
+│   ├── MÜDAHALE SİNYALİ.flv
+│   ├── Polis AKM_ye bayrak asarken slogan attı.mp4
+│   ├── Tayyip_Erdogan_belediye_baskaniyken_verdigi_mulakat.flv
+│   └── Vali Avni Mutlu'ya Canlı Yayında Eylemci Tepkisi.flv
+├── Komik
+│   ├── Icine_atma.flv
+│   ├── Necati Şaşmaz Gezi Parkı Olaylarını Yorumladı.mp4
+│   ├── Necati Şaşmaz Konuştu, Twitter Sallandı.flv
+│   ├── Şahan Polatla dalga geçti _ Sözcü Gazetesi.mp4
+│   ├── Şaka değil! Beyoğlu Belediye Başkanı canlı yayında neden şoka girdi.flv
+│   ├── Sence, bir polis nedir.flv
+│   ├── Türkçe Altyazılı Necati Şaşmaz'ın Gezi Parkı Açıklaması.flv
+│   └── YILIN VIDEOSU CNN TURK CANLI YAYINI.flv
+├── Muzik
+│   ├── Agire Jiyan - Çapulci.flv
+│   ├── Anadolu Müzik Topluluğu- #direnenşarkı.flv
+│   ├── AYNI YOLDAN GEÇMİŞİZ BİZ AYNI SUDAN İÇMİŞİZ BİZ.flv
+│   ├── Benim adım çapulcu (cover).flv
+│   ├── Boyun Eğmeyenler.mp4
+│   ├── Bu Daha Başlangıç, Mücadeleye Devam.flv
+│   ├── Ceyl'an Ertem - Bir Başka     #DİRENGEZİPARKI.mp4
+│   ├── Diren Gezi Parki! - OccupyGezi!.flv
+│   ├── Düşbaz - Kurtuluş Yok Tek Başına (Gezi Direnişine Selam).mp4
+│   ├── Duyuyor musun bizi İşte çapulcunun sesi' (Do you hear the people sing).flv
+│   ├── Fazıl Say - İnsan İnsan.mp4
+│   ├── FlowArt - Gezi Parkı (Beat_ Can Bargun).flv
+│   ├── GEZİ PARKI DİRENİŞİ.mp4
+│   ├── Gezi Parkı Günlüğü.flv
+│   ├── GEZi PARKI'na. (YENi).mp4
+│   ├── Mehmet ETİ I'm Chapuling.flv
+│   ├── Müge Zeren - La Chapulita.flv
+│   ├── New York'lu Capulcular - Simdi Istanbul'da Olmak Vardi Anasini Satayim.mp4
+│   ├── Pianist Davide Martello was in Taksim!!! #direngeziparkı #direntaksim.mp4
+│   ├── Resistanbul AudioKnob (Subtitles).flv
+│   ├── Rulez Rhyme - Heryer Direniş.mp4
+│   ├── Serhad Raşa ''Çapulcu'nun Şarkısı'' Söz-Müzik - Seyduna Tunay Bozyiğit.mp4
+│   ├── Serhad Raşa ''Taksim Gökkuşağı'' Taksim Gezi Parkı Direnişçileri Söz-Müzik - Seyduna Tunay Bozyiğit.flv
+│   ├── Taksim'de Piyano Dinletisi (1) - Cav Bella _ http -_www.bilgius.com  -.mp4
+│   ├── Tayyibi Saldım Çayıra....flv
+│   ├── The Free Licks - Exit Plan #DirenGeziParki.mp4
+│   └── ulke_capinda_cav_bella.mp4
+├── Polis_siddeti
+│   ├── Ankara
+│   │   ├── 40MM Spin-Stabilized Foam Baton.flv
+│   │   ├── Başına gaz bombası isabet eden ve son anda TOMA.flv
+│   │   └── Polis doğrudan öldürmek amaçlı nişan alarak gaz atıyor HAYAT.flv
+│   ├── Ethem Sarısülük'ün basın açıklaması sonrasından bir sitem.flv
+│   ├── Gözümü kaybettiğim için üzülmüyorum.flv
+│   ├── Istanbul
+│   │   ├── 11.06.2013 - TAKSİM GEZİ PARKI VE TASİM MEYDANINDA VAHŞET..flv
+│   │   ├── 11 Haziran 2013 - Onbinler Taksim'de Polis Terörüne Direndi.mp4
+│   │   ├── 11 Haziran, Karanlığa gömülünen an.mp4
+│   │   ├── ARMUTLU MAHALLESİNDE ELLERİ SOPALI DEMİR BORULU SİVİLLER KİM TARİH 03 06 2013 VİDEO 1.flv
+│   │   ├── Çağlayan Adliyesi 30 Avukat Gözaltına Alındı 11.06.2013.flv
+│   │   ├── Çağlayan Adliyesinde polis müdahalesi 11.06.2013.flv
+│   │   ├── Gezi parkina ses ve gaz bombasi! 21 civari 11.06.2013.flv
+│   │   ├── Jun 11, 2013 2 -45pm.mp4
+│   │   ├── Polis kameralı helikoptere ateş etti _  Police shot RC copter @ Taksim Gezi Park.mp4
+│   │   ├── sivil_polisler_rus_turistin_kamerasina_zorla_el_koyuyor.flv
+│   │   ├── Taksim Gezi Parkı Radikal.flv
+│   │   └── Taksim meydanında toplanan kalabalığa polis müdahalesi.mp4
+│   └── Izmir
+│       └── izmir-de-katli-otoparkta-iskence.mp4
+├── Taksim
+│   ├── çArşı Taksim Meşale Show.flv
+│   ├── Footage from the RC drone that was shot down by police [HD].mp4
+│   ├── Gezi Parkı'nda piyano resitali - Davide Martello.flv
+│   ├── Gezi Park People's Assembly _ Halk Meclisi - June 6, 2013 _ 6 Haziran 2013.flv
+│   ├── Jun 12, 2013 1 -21pm.mp4
+│   ├── Klavier Kunst - Imagine- Taksim Meydanı #direngeziparkı.flv
+│   ├── Meydanda piyano #taksim #direngeziparkı.mp4
+│   ├── #OCCUPYGEZI HDR by _ISIK5 on deviantART.jpg
+│   └── Taksim Meydanı'nda Piyano Resitali HD #direngeziparkı.mp4
+├── TV
+│   ├── AVUKATLARA, AVUKATLARDAN DESTEK.flv
+│   ├── Çek Bakalım - 'Koyun Olalım O Zaman'.flv
+│   ├── CHP'Lİ NUR SERTER, POLİS MÜDAHALESİNİ YORUMLUYOR.flv
+│   ├── DİREN TÜRKİYE.flv
+│   ├── Emine Ülker Tarhan Gezi Parkı Konuşması.flv
+│   ├── Ertuğrul Kürkçü 11 Haziran 2013 Meclis konuşması.flv
+│   ├── GEZİ PARKI'NI BOŞALTIN.flv
+│   ├── GÜL, RİZE'DE KONUŞTU.flv
+│   ├── İlber Ortaylı Aykırı Sorularda Gündemdeki Konuları Değerlendirdi.flv
+│   ├── Oğuz Haksever'in haberciliği !.flv
+│   └── RTÜK'TEN GEZİ CEZASI.flv
+└── Uluslararasi
+    ├── 13.06.2013 Venezia- occupazione del padiglione turco.flv
+    ├── A piano recital at the edge of fear -Gezi Park.flv
+    ├── A protester in Turkey shot by police on live broadcast.flv
+    ├── Barricades and chants in response to Turkish PM’s 24-hour deadline — RT News.flv
+    ├── CNN'den İbrahim Kalın'a tepki; MR. Kalin Show is over!.flv
+    ├── CNN International Simultane çevirisi.flv
+    ├── Dublin - Turkish Embassy 13th June 2013.flv
+    ├── EU debate about Gezi Park protests in Turkey , June 12.flv
+    ├── İspanyol Televizyonundan Başbakan Erdoğan'a Türkçe Mesaj.flv
+    ├── Keny Arkana - V pour vérité - ( Türkçe Altyazı ).flv
+    ├── manu_chao_ve_arkadaslarindan_destek.mp4
+    ├── Michael Cashman CBE, MEP on the situation in Turkey.flv
+    ├── Paul Murphy Avrupa Parlamentosu'ndan sesleniyor- Turkce Altyazili.mp4
+    ├── Protests Continue To Rage On In Turkey!.flv
+    ├── Protest to end Police Voilence against protesters in Turkey Turkish Embassey.flv
+    ├── Safak_Pavey_Heavy crackdown_witch hunt loom as Turkey PM's 24-hr noti.mp4
+    ├── Tariq Ali is giving hope to Turkish youth_ Resist___.mp4
+    ├── Turkey Protests Riot Police Clash With Activists.flv
+    ├── Turkish police oust Taksim protesters with tear gas as Erdogan cheers removal of ‘rags’ — RT News.flv
+    ├── Turkish Protesters Blasted By PM Erdogan.mp4
+    ├── Twitter vs Erdogan, and what humans might look like in 100,000 years - FRANCE 24.mp4
+    └── Video - RT crew teargassed as Istanbul burns in protests.mp4
+
+17 directories, 162 files
+s Erdogan, and what humans might look like in 100,000 years - FRANCE 24.mp4
+    └── Video - RT crew teargassed as Istanbul burns in protests.mp4
+
+17 directories, 162 files

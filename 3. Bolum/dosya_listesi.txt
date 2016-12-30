@@ -1,0 +1,355 @@
+.
+├── Belgesel-Kisa_film
+│   ├── 12.06.2013-gezi_parkindan_roportajlar_interviews_from_gezi_park_videoccupy_turkiye_20130612.mp4
+│   ├── BASLANGIC,_cok_yakinda..._Uluc_Reis_20130619.mp4
+│   ├── cuval_videoccupy_turkiye_20130612.mp4
+│   ├── Daha_Fazla_Taksim_Azizm_Sanat_20130616.mp4
+│   ├── Daha_Fazla_Taksim_Azizm_Sanat_20130616.mp4.description
+│   ├── Duran_UFO_Kisa_Film_The_Man_Produksiyon_20130619.mp4
+│   ├── Duran_UFO_Kisa_Film_The_Man_Produksiyon_20130619.mp4.description
+│   ├── Duyuyor_musun_bizi_Iste_Capulcunun_Sesi.._Do_you_hear_the_p.mp4
+│   ├── ethem_sarisuluk_cenaze_toreni_derleme.mp4
+│   ├── Fragman_bitti_film_basliyor._Her_Yer_Taksim_Her_Yer_Direnis_Video_Haber_Turkiye_20130616.flv
+│   ├── gezi_havasi_gezi_tune.mp4
+│   ├── Gezi_Park_before_the_police_crack_down_GreenpeaceTurkiye_20130619.mp4
+│   ├── gezi_parki_gunlugu-gezi_park_diary_12.06.2013_videoccupy_turkiye_20130612.mp4
+│   ├── Gezi_Parki_Icin_GreenpeaceTurkiye_20130602.mp4
+│   ├── Gezi_Yazi-Baskaldirinin_140_Vurusu-Hq_t81JuY0Q.mp4
+│   ├── Gorsel-HafizA_A_Visual_Memory-Taksim_Square_to_Istiklal_Street-22.06.13_videoccupy_turkiye_20130623.mp4
+│   ├── Keske_yalniz_bunun_icin_kirsaydim_seni_I_wish_I_would_break_you_just_because_of_this_funky000punky_20130618.mp4
+│   ├── Nefes_Al.mp4
+│   ├── Occupy_Gezi-Istanbul_Turkey_MrGuerrillaXL_20130531.flv
+│   ├── RWNBT-#OccupyGezi_Cekim_Gucu_20130611.mp4
+│   ├── RWNBT-#OccupyGezi_Cekim_Gucu_20130611.mp4.description
+│   ├── Sadece_Park_Yuzunden_Degil_Mutlaka_izleyelim_ve_paylasalim_31mayisdirenisi_20130617.mp4
+│   ├── Sinemacilar_Niye_Gezi_de_istanbulda_neoluyor_20130613.mp4
+│   ├── Sinemacilar_Niye_Gezi_de_istanbulda_neoluyor_20130613.mp4.description
+│   ├── Siraselviler_direnisi_hizlandirilmis_video-Turk_Resistance_only_on_one_Single_St._in_Fast_Motion_Murat_Demiroglu_20130623.flv
+│   ├── Taksim_Gezi_Parki_Belgeseli-Documentary-by_Ozcan_Tekdemir_Part1_Babur_Nalcaci_20130604.mp4
+│   ├── taksim_gezi_parki-gunduz_daytime_14.06.2013_videoccupy_turkiye_20130614.mp4
+│   ├── Taksim_ilk_yardim_gazhanesi_16.06.2013-Taksim_First_Aid_Gaspital_16.06.2013_Burak_Barutcu_20130618.mp4
+│   ├── Taksim_ilk_yardim_gazhanesi_16.06.2013-Taksim_First_Aid_Gaspital_16.06.2013_Burak_Barutcu_20130618.mp4.description
+│   ├── Tayyip_Erdogan_escalates_violence_against_Capuling_Turkish_protesters_NMATV_NA.mp4
+│   ├── Turkey-The_Sound_of_Protest_Istanbul-Taksim_Square_News-World_News-2_JUNE_2013-WorldNewsLast_20130602.mp4
+│   ├── Turkiye_Ayakta_16_Haziran,_Saat_16-00_da_Istanbul_Taksim_de_bulusuyor_tkpninsesi_20130615.flv
+│   └── Vardiya-Taksim_Gezi_Parki_Durduramayacaklar_Halkin_Coskun_Akan_Selini_metin_milliyet_20130614.flv
+├── Bildiri
+│   ├── 21._Istanbul_LGBT_Onur_Haftasi-2013_Onur_Haftasi_20130622.mp4
+│   ├── camide_icki_ictigi_iddia_edilen_vatandas.mp4
+│   ├── ISTANBUL_BAROSU_BASIN_ACIKLAMASI-HALKA_KARSI_SIDDET_KABUL_EDILEMEZ_ist_baro_20130604.flv
+│   ├── Sirri_Sureyya_Onder_le_Gezi_Parki_Uzerine_15.06.2013_videoccupy_turkiye_20130622.mp4
+│   └── yasar_adanali_on_occupygezi-uncut-mutlu_kent_20130606.flv
+├── dosya_listesi.txt
+├── Eylem
+│   ├── AKP_YE_KARSI_DURAN_LAR._Ulusal_Kanal_20130618.flv
+│   ├── Ankara
+│   │   ├── 23_Haziran_2013_Ankara_Dikmen_de_yasanan_gerilim_dolu_saatler_suhulettin_hidir_20130622.flv
+│   │   ├── ANKARA_DA_SERT_MUDAHALE_Ulusal_Kanal_20130609.flv
+│   │   ├── Ankara_kugulu_park_onu_ezgi_tuzun_20130615.flv
+│   │   └── Biber_Gazini_Etkisiz_Hale_Getirme_Yontemi_SosyalMedya0001_20130603.flv
+│   ├── Canakkale
+│   │   └── COMU_mezuniyet_toreni_Ilker_Dincer_20130620.flv
+│   ├── Eskisehir
+│   │   ├── DirenAli_Eskisehir_Seninle_Zeynep_Ozyurek_20130621.mp4
+│   │   └── Yilmaz_Buyukersen_genclere_destek_oldu_#direngeziparki_Ali_Yasacan_20130604.video
+│   ├── EV_YAPIMI_GAZ_MASKESI_conta_ravolta_20130601.flv
+│   ├── Istanbul
+│   │   ├── 04-06-2013_sali_gecesi_istanbul_gumussuyu_havai_fisekler_fir.mp4
+│   │   ├── 11.06.2013-13.00-Taksim_Meydani_Taksim_Square_videoccupy_turkiye_20130611.mp4
+│   │   ├── 11.06.2013-18.00_Taksim_Meydani_Taksim_Square_videoccupy_turkiye_20130611.mp4
+│   │   ├── 11.06.2013-Cumhuriyet_Caddesi_Street_videoccupy_turkiye_20130611.mp4
+│   │   ├── 11.06.2013-Gezi_Parki_Sabaha_Karsi_videoccupy_turkiye_20130611.mp4
+│   │   ├── 11_haziran_june_2013-taksim_gezi_park_videoccupy_turkiye_20130611.mp4
+│   │   ├── 130616_19-40_Police_using_teargas_in_Cihangir_Taksim_de_gaz_bombali_mudahale_basladi_#occupygezi_Harun_Yasin_20130616.mp4
+│   │   ├── 16_haziran_gezi_park_mudahale_baslangici.mpg
+│   │   ├── 16_haziran_gezi_park_mudahale.mpg
+│   │   ├── 1_Haziran_2013-Taksim_Tepebasi_videoccupy_turkiye_20130609.mp4
+│   │   ├── 20130531_182812.mp4
+│   │   ├── 20130601_191740.mp4
+│   │   ├── 31_Mayis_2013-Tarlabasi_Taksim_videoccupy_turkiye_20130609.mp4
+│   │   ├── 8_Haziran_2013-Carsi_Taksim_e_ilerlerken..._videoccupy_turkiye_20130608.mp4
+│   │   ├── 9_Haziran_June_2013-Taksim_Mitingi_Meeting_videoccupy_turkiye_20130610.mp4
+│   │   ├── akrep-ara_sokaklara_gaz_atiyor_videoccupy_turkiye_20130615.mp4
+│   │   ├── ambulans_gecemiyor_videoccupy_turkiye_20130615.flv
+│   │   ├── ara_sokaklarda_gezi_park_taksim_15.06.2013_videoccupy_turkiye_20130616.mp4
+│   │   ├── Bagdat_Caddesi_#Occupy_Gezi_#direngeziparki_MasterBronze12_20130601.mp4
+│   │   ├── baglar_19.06.2013_Ergun_Arslan_20130619.flv
+│   │   ├── barikatlar_arasinda_voleybol.MP4
+│   │   ├── biber_gazini_etkisiz_hale_getiren_gencler.mp4
+│   │   ├── Destek_Alamadigi_Halka_Kusup_Geri_Cekilen_Polis_Overlokcu_Ve_Paylasimlari_20130618.flv
+│   │   ├── Diren_Istanbul,_Taksim_23.06._Halk_polisi_istemiyor-The_people_don_t_want_the_police_parakatanka_20130622.mp4
+│   │   ├── Duran_adam_mymia_mia_20130617.flv
+│   │   ├── Duran_Adam_ne_icin_durdu_Hakan_Sahin_20130617.flv
+│   │   ├── Duran_adam,_saskin_polisler_komik_panpa_20130618.flv
+│   │   ├── fenerbahceli_taraftarlar_taksime_giriyor.mp4
+│   │   ├── Gezi_Parki_Direnisi-Taksim,_Istanbul_Merve_Ozbakir_20130531.flv
+│   │   ├── Gezi_Park_Protests_MissMissMao_20130531.flv
+│   │   ├── Hatirliyoruz-2-28_Mayis_2013-Bu_daha_baslangic_istanbulda_neoluyor_20130605.flv
+│   │   ├── Haydarpasa_Gari_Protestosu_Haydarpasa_Train_Station_Protests_18.06.2013_videoccupy_turkiye_20130619.mp4
+│   │   ├── Haydarpasa_Halkindir_Satilamaz_nhkmistanbul_20130619.mp4
+│   │   ├── Haydarpasa_Halkindir_Satilamaz_nhkmistanbul_20130619.mp4.description
+│   │   ├── Istiklal_00_00_civari_01.06.13.mp4
+│   │   ├── Istiklal_00_00_civari_2_01.06.2013.mp4
+│   │   ├── Istiklal_Caddesi_15_Haziran_22-10_istanbulda_neoluyor_20130615.flv
+│   │   ├── Jandarma_gelmeyeydi_iyiydi.mp4
+│   │   ├── nisantasi_tek_basin_mahallesini_koruyan_adam.mp4
+│   │   ├── Occupy_Gezi_Park_Besiktas_Akaretler_Saat_22-00_02.06.2013_Erhan_ileri_20130602.mp4
+│   │   ├── Ocuupy_Taksim_June_22_Resistance_for_Gezi_Park_Day_26_19-00_Istanbul_Ozy_Kitty_20130623.flv
+│   │   ├── Polis_simit_sat_onurlu_yasa_Sener_Yilmaz_Aslan_20130622.flv
+│   │   ├── Sendikalar_Istiklal_Caddesi_nin_Tunel_Girisinde_istanbulda_neoluyor_20130617.mp4
+│   │   ├── Sendikalar_Karakoy_den_Yuruyor_istanbulda_neoluyor_20130617.mp4
+│   │   ├── taksim_ciplak_eylemci.mp4
+│   │   ├── Taksim_Gezi_Parki-May,_31_2013-Occupy_Gezi_mkoc_20130531.mp4
+│   │   ├── The_First_Day_Gezi_Park-Istanbul_Flashes_Lights_In_Solidarity_With_OccupyGezi1_20130619.mp4
+│   │   └── Uskudar_amackaleli_20130603.mp4
+│   └── Polise_Linc_Girisimi_Gezi_Parki_Olaylari_mixedvideosable_20130603.flv
+├── Forumlar
+│   ├── Abassaga_Parkinda_Amerikali_Konusma_Yapiyor_Max_Lurya_20130623.flv
+│   ├── Abassaga_Parkinda_Amerikali_Konusma_Yapiyor_Max_Lurya_20130623.flv.description
+│   ├── Ankara_Ethem_Sarisuluk_Parki_22.06.2013_Forum_Baslangic_Halkin_Sesi_20130622.mp4
+│   ├── Dezentrale_#GEZIPark_Kungebung_im_#Yogurtcu_Park._23.6.2013_20-10._#direnGEZI_#direnKADIKOY_Marc_Nikoleit_20130623.mp4
+│   ├── Ethem_Sarisuluk_un_Avukati_Konusuyor_22.06.2013_Halkin_Sesi_20130622.mp4
+│   ├── Piyanistimizin_veda_muzigi-Abbasaga_parki-spiritual3333_20130619.mp4
+│   └── Tutuklanan_Yusufcan_in_Babasiyim_22.06.2013_Halkin_Sesi_20130622.mp4
+├── Hukumet_Eylem_Karsiti
+│   ├── 21_HAZIRAN_2013_SAAT-21-00_DA_BEYAZ_TV_YE_DAVET_melih_gokcek_20130620.mp4
+│   ├── Adnan_Oktar_Basbakan_Recep_Tayyip_Erdogan_dan_onemli_ricada_bulundu_Yaratilistr_20130619.flv
+│   ├── AK_Parti_Gezi_Parki_Filmi-Buyuk_Oyun-28_Dk.-CmPaec3VAeE.flv
+│   ├── Arinc_tan_Kilicdaroglu_na_Capulcu_gondermesi_TheHaber0_20130623.flv
+│   ├── BARBARLIK,_YAGMACILIK_Ulusal_Kanal_20130617.flv
+│   ├── Beyaz_Tv_Basin_Kulisi_Melih_Gokcek_1_Kisim_21_06_2013-UYANDIRMA_PROJESI_20130621.flv
+│   ├── biz_ben_bunlar_Tayyip_erdogan.mp4
+│   ├── Bunlar_mi_Masum_Eylemci_2_Kenan_Turhan_20130619.mp4
+│   ├── Cuma_namazi_cikisi_AKP_miting_calismalari_Yorgo_Angelopoulos_20130615.flv
+│   ├── GEZI_PARKINDA_YABANCI_PROVOKATORLER_melih_gokcek_20130623.mp4
+│   ├── Ishak_Telli_Ayyildiz_TiM-RedHack-Gezi_Parkini_Anlatti_Ankara_daki_DaYi_20130621.flv
+│   ├── kayseride_mudahaleye_halk_yorumu.mp4
+│   ├── Melih_Gokcek_Canli_Yayinda_Agladi_TRT_HABER_Inci_Sozluk_20130624.flv
+│   ├── Melih_Gokcek-Mehmet_Ali_Alabora_ya_Bunun_Hesabi_Sorulmali_hakan_demir_20130614.flv
+│   ├── Pro_Erdogan_Demo_in_Wien_VIYANA_DAN_BASBAKAN_IMIZA_DESTEK_YURUYUSU_Hexogen58_20130623.mp4
+│   ├── Salih_Tuna-AKP_nin_Duran_Adam_planini_acikliyorum_sesli_makale_20130621.flv
+│   ├── taner_yildiz-egitim_seviyesi_arttikca_ak_parti_nin_hitap_ettigi_alanin_daha_daraldigini_goruyoruz_beter_bok_20130616.flv
+│   ├── Yigit_Bulut-Telekineziyle_Basbakan_Erdogan_i_Oldurmeye_Calisiyorlar_puuf39_20130614.flv
+│   ├── ZAHIDE_NINE-SANA_MI_YEDIRECEGIM_BU_MEMLEKETI-KANALTURK_ANA_HABER-18_HAZIRAN_2013_TARIK_TOROS_20130618.flv
+│   └── Zahide_Nine_yine_konustu_Taksim_de_Turk_bayragi_yok_Sezer_Sahin_20130619.flv
+├── Komik
+│   ├── ANGARANIN_BAGLARI_DIRENIS_VERSIYON_Mustafa_gunal_20130615.flv
+│   ├── Basbakan_Erdogan_Nereye_Sicacaklar.flv
+│   ├── cevik_kuvvet_teslim_ol_amackaleli_20130616.mp4
+│   ├── cihangir_sokaklarinda_kaybolan_polisler.mp4
+│   ├── Gas_Them_All_Alp_Haydar_20130617.mp4
+│   ├── Gezide_saganak_altinda_Ankara_nin_baglari_ve_Gangnam.mp4
+│   ├── Gezi_Parki_Adnan_Hoca_nin_anlattigi_sekilde_yapilsin_Yaratilistr_20130616.flv
+│   ├── GEZI_PARKINDA_NESELI_GUNLER_can_dogan_20130612.flv
+│   ├── Melih_Gokcek_Cal_Keke_Cal-bntntw8AlXg.mp4
+│   ├── Muhabirin_Gidisini_Alan_Cocuk_Overlokcu_Ve_Paylasimlari_20130620.flv
+│   └── toma_vs._polis_Serkan_Ozkasnak_20130622.flv
+├── Muzik
+│   ├── Abbasaga_Parki_nda_opera_sanatcisindan_Yigidim_Aslanim_..._irmszr_20130619.mp4
+│   ├── abbasaga_yigidim_aslanim_19_Haziran_2013_ggcosar_20130620.mp4
+│   ├── ADALILAR_Direnis_Marsi_Gezi_Parki_Direniscilerine_Serhad_Rasa_20130610.flv
+│   ├── Adamlar_capulcu,_yolcular_ayyas...._Mukemmel..._macakizi_sinek_valesi_20130621.video
+│   ├── Angara_nin_Gazlari_Capulcu_Sarkilari_Kartal_Haber_20130610.flv
+│   ├── Ankara_Capuling_Style_Eddy_Ensell_20130607.mp4
+│   ├── Ankara_Uni._Dev._Kons._KuguluPark_Performansi_Adilcan_Akcan_20130619.mp4
+│   ├── Asrin_Uyanis_i_Awakening_of_the_Century_Ugur_yaman_20130616.mp4
+│   ├── Asrin_Uyanis_i_Awakening_of_the_Century_Ugur_yaman_20130616.mp4.description
+│   ├── Ayakta_Kal_Carsi_Marsi_Kolektif_basin_20130618.flv
+│   ├── Bekle_Bizi_Istanbul_#direngeziparki_Oskar_Schindler_20130601.mp4
+│   ├── Biber_gazi_sik_bakalim_Taner_Yener_Colak_20130614.mp4
+│   ├── Biber_gazi_sik_bakalim_Taner_Yener_Colak_20130614.mp4.description
+│   ├── Bilgem_feat._Mert-Taksim_Dayan_MusicOfBilgem_20130612.mp4
+│   ├── Bu_Daha_Baslangic_Mucadeleye_Devam_Ozlem_Sen_20130609.mp4
+│   ├── Bulent_Simsek-gezi_parki_ma-DOKUNMA_ReD_SaNaT_20130606.mp4
+│   ├── Burak_Buyruk-Duran_Adam_Sarkisi_ksnadm_20130620.mp4
+│   ├── Capul,_capul._Capul_for_your_right_Cover_of_Bob_Marley_s_NachhilfeByHako_20130610.mp4
+│   ├── Capulcu_Cocuklar-Parkimizi_vermeyiz_bilmiscocuk_20130615.flv
+│   ├── CAPULCU_GUNDIAN....._murat_sener_20130607.mp4
+│   ├── Capulcu,_Oktay_Kocyigit_Oktay_Kocyigit_20130605.mp4
+│   ├── capulcu_sarkisi-polis_toma_yolla_bize_Ramazan_Subasi_20130623.mp4
+│   ├── CAPULCUYUZ-EYPIO_RAP_FAPRIEK_20130608.flv
+│   ├── CAPUL-Muptela-i_Gam_Muptelai_Gam_20130614.flv
+│   ├── Cemiyette_Pisiyorum-Buldozer-POMA-cemiyette_pisiyorum_20130618.mp4
+│   ├── Dayan_Antartika_Ulusal_Kanal_20130614.flv
+│   ├── Demir_Sert-Bu_Gaz_Bir_Harika_Dostum_Impulsick_20130612.flv
+│   ├── Demir_Sert-Bu_Gaz_Bir_Harika_Dostum_Impulsick_20130612.flv.description
+│   ├── Deniz_Yilmaz-Aman_Kos_Panpa-Taksim_Gezi_Parki_Protestolarina_Destek_Sarkisi_666iks_20130608.flv
+│   ├── DINAR_BANDOSU-The_Chapullers_Erdil_Kacamak_20130609.mp4
+│   ├── Dipnot-Kalles_Medya-Bu_Bir_Direnis_Sarkisidir-#direngeziparki_Serhat_Elvan_Temiroglu_20130603.flv
+│   ├── direngezi_idilek1_20130622.flv
+│   ├── DIREN_GEZI_PARKI_SARKISI_Mertkan_D._YILMAZER_20130617.flv
+│   ├── DirenGeziParki-Tayyip_Erdogan_Ayda_Yilmaz_20130617.mp4
+│   ├── Diren_Gezi_Parki-Yavuzcan_Cetin_and_Durmayan_Orkestra_Yaktiniz_Yiktiniz_Yavuzcan_Cetin_20130604.mp4
+│   ├── Direnis_Armoniofficial_20130623.flv
+│   ├── EGE_UNIVERSITESI-CAPULCU_KOROSU_EgeUniversity_Toolbar_20130612.flv
+│   ├── E-Ray-Gaz_Geliyor_eray_elmas_20130616.flv
+│   ├── Everyday_I_m_Chapulling_PSY_GENTLEMAN_COVER_TheRushit_20130607.flv
+│   ├── everyday_we_re_chappuling_chappuling_20130605.flv
+│   ├── Faka_Bastin_Tayyeap-Grup_Voltran-voltranful_20130616.mp4
+│   ├── Fuat_Ergin_Karar_Bizim-Gezi_Parki_Fuat_Ergin_20130609.flv
+│   ├── Gaziantep_Universitesi_Capulculari_and_Tencereli_Tava_Capulcu_muslum_ates_20130611.mp4
+│   ├── Gezi_Parki_Taksim-Cav_bella-31.05.13.mp4
+│   ├── Grup_Gundogarken_Gezi_Parki_Sarkisi_YENI_KingTubeMedia_20130619.mp4
+│   ├── Grup_Yorum_Taksim_Direnisi_Icin_Soyluyor_songemii_20130601.flv
+│   ├── halilim_piterXdT_20130616.flv
+│   ├── Hers_ey_bir_ag_ac_la_bas_lamis-Basak_Yavuz_Basak_Yavuz_20130604.flv
+│   ├── Huseyin_Badilli-Kim_Sevmedi_Soyle_Seni_Sayin_Baskan_Sen_Cocukken_Direnen_Halk_20130620.flv
+│   ├── Husnu_Arkan_I_Egilin-Taksim_Gezi_Direnisi-Deniz_Yilmaz_20130614.mp4
+│   ├── Husnu_Arkan_I_Egilin-Taksim_Gezi_Direnisi-Deniz_Yilmaz_20130614.mp4.description
+│   ├── Istiklal_Caddesinde_sanat_dolasiyor-DU-sokak_sanatcilari_20130619.mp4
+│   ├── MANIFESTO-Dagilin_Lan_Bora_Bicer_20130621.flv
+│   ├── MANIFESTO-Dagilin_Lan_Bora_Bicer_20130621.flv.description
+│   ├── Maske_Capulcu_Orkestra-Imagine_#direngezi_#occupygezi_maske_capulcu_20130621.mp4
+│   ├── Maske-Diren_Gezi_#occupygezi_maske_capulcu_20130621.mp4
+│   ├── NEHRIN_KIYISINDA-31_Mayis_2013-HD-by_Mert_Kamiller-#direngeziparki_Mert_Kamiller_20130620.flv
+│   ├── ocuppygezi_Roger_Waters-PINK_FLOYD-MOTHER-Diren_Gezi_Parki-capulcu_pink_20130613.mp4
+│   ├── ODTU_Sosyalist_Dusunce_Toplulugu_ndan_Direnis_Sarkisi_Fikir_Kulupleri_Federasyonu_20130609.flv
+│   ├── Oguzhan_Ugur-BIRINCI_VAZIFE_Oguzhan_UGUR_20130605.mp4
+│   ├── Parfum-Atma_Bombalarini_Gozlerime_GrupParfum_20130607.mp4
+│   ├── Portakali_biber_gaziyla_With_its_orange_and_pepper_gas-repetitive_rhtym_Gezi_Park_videoccupy_turkiye_20130614.mp4
+│   ├── Quantum-Direnis_Cigligi_Quantumbandtr_20130611.mp4
+│   ├── RESISTANBUL-Musical_support_message_to_Turkish_freedom_fighters_by_E.Faidra_and_P.Tsoukalas_Periklis_Tsoukalas_20130612.mp4
+│   ├── RESISTANBUL-Musical_support_message_to_Turkish_freedom_fighters_by_E.Faidra_and_P.Tsoukalas_Periklis_Tsoukalas_20130612.mp4.description
+│   ├── Samba_Taksim-17_06_2013.mp4
+│   ├── Sanatla_Gezi_dayanismamiz_suruyor_Gezi_Solidarity_goes_on_with_art_videoccupy_turkiye_20130613.mp4
+│   ├── Sanatla_Gezi_dayanismamiz_suruyor_Gezi_Solidarity_goes_on_with_art_videoccupy_turkiye_20130613.mp4.description
+│   ├── SATTAS-Groundation-Diren_Gezi_Parki-Live_Recorded_Version-kokozhasan_20130617.mp4
+│   ├── SATTAS-Groundation-Diren_Gezi_Parki-Live_Recorded_Version-kokozhasan_20130617.mp4.description
+│   ├── SEKERSE_TEHLIKE-GODAMAN_Sekerse_Tehlike_20130617.flv
+│   ├── soL_major-Capulcular_Iktidara_soL_major_20130618.flv
+│   ├── Taksim_Gezi_Park-Protest_Music-Tava_Tencere_Bitsin_Bu_Cile_airbrushoptic_20130615.flv
+│   ├── Turkish_Protesters_Sing_Les_Miserables_Rebel_Song_notherWorld_20130623.flv
+│   ├── Turkulerle_#direngezi-Fasist_Oglan-Seker_Oglan_duzenlemesi-Ali_Avni_Cirik_20130606.mp4
+│   ├── Ya_hep_beraber-Fosil_grupfosil_20130615.mp4
+│   ├── Yedinci_Ev-Eninde_Sonunda_m0n0mizu_20130622.flv
+│   └── Yigidim_Aslanim_Burda_Yatiyor_ellop17_20130621.mp4
+├── Polis_Sivil_Siddeti
+│   ├── Afyon
+│   │   ├── 2013_06_01_afyon_polismudahalesi1.mp4
+│   │   └── 2013_06_01_afyon_polismudahalesi.mp4
+│   ├── Ankara
+│   │   ├── 17.06.2013_Kennedy_Caddesi_TOMA_lara_su_tasiyan_tanker_gostericilere_daliyor_damnyouwildwomen_20130616.flv
+│   │   ├── Ankara_in_Protest-News_Correspondent_Tom_Barton_shot_by_water_cannon_Tom_Barton_20130622.flv
+│   │   ├── ankara_kurtulus_polis_dakikalarca_dovup_bayiltip_gozaltina_aliyor.mp4
+│   │   └── Bestekar_sokakta_antikacidaki_gaz_fisegi_Seyit_Gumus_20130622.video
+│   ├── Antalya_2haziran_polisten_otoparkta_olduresiye_dayak.flv
+│   ├── Eskisehir
+│   │   ├── 19.06.13_eskisehir_polis_mudahalesi_hicran_yalcin_20130618.flv
+│   │   ├── 19_HAZIRAN_ESKISEHIRDE_POLIS_SEVKATI-SIDDETI-Veysel_Efendi_20130619.flv
+│   │   └── Dokuzlar_eskisehirde_gozalti_avinda_Deniz_Perhan_20130618.flv
+│   ├── Ethem_Sarisuluk_un_Annesinden_Cagri_Umut_Denizi_20130623.flv
+│   ├── Istanbul
+│   │   ├── 11.06.2013_taksim_meydanindan_bir_an_videoccupy_turkiye_20130611.mp4
+│   │   ├── 1.30_sulari_Alman_Hastanesi_Demircan_Demircioglu_20130531.flv
+│   │   ├── 15_06_2013_gezi_parki_na_polis_mudahalesi-3_police_interference_at_gezi_park_videoccupy_turkiye_20130615.mp4
+│   │   ├── 15_06_2013_Taksim_Divan_Otel_onundeki_polis_mudahalesi_police_attack_at_Divan_Otel_videoccupy_turkiye_20130615.mp4
+│   │   ├── 15_haziran_2013_Taksim.mp4
+│   │   ├── 16.06.2013_20-49-Sishane-pembeburger_20130616.flv
+│   │   ├── 16.06.2013_21-03_Kadikoy_Vapur_Iskelesi_lamba_cini_20130616.mp4
+│   │   ├── 22.06.2013_Taksim_Meydani_nda_polis_mudahalesi_police_intervention_at_the_Taksim_Square_videoccupy_turkiye_20130623.mp4
+│   │   ├── 22_Haziran_da_Taksim_de_ne_oldu_35EZZO_20130623.mp4
+│   │   ├── 2toma_koseye_sikisanlara_inatla_su_sikiyor.mp4
+│   │   ├── Beyoglunun_sokaklarinda_direniscilere_saldiran_bir_grup-16-06.flv
+│   │   ├── direngezi_Nisantasi_nda_Polisin_OTURAN_Gostericilere_Mudahelesi_Doruk_Okan_20130622.flv
+│   │   ├── direngezi_Nisantasi_nda_Polisin_OTURAN_Gostericilere_Mudahelesi_Doruk_Okan_20130622.flv.description
+│   │   ├── Divan_Otel_in_icine_gaz_bombasi.flv
+│   │   ├── Gezi_Parki_Bosaltildiktan_Sonra_Devlet_Eliyle_Yapilan_Yagma_Sivil_Direnis_20130618.flv
+│   │   ├── Gezi_Parki_na_Polis_Mudahalesi_Police_Enters_to_Gezi_Parki_15.06.2013_videoccupy_turkiye_20130615.mp4
+│   │   ├── GEZI_PARKINDA_DOKTORLARA_SALDIRI_ANI_Cem_savas_20130616.mp4
+│   │   ├── GeziPark-Polis_basina_karsi_Police_against_the_press_ne_yapayim_osurayim_mi.mp4
+│   │   ├── Gokhan_bicici_gozaltina_alinmasina_halk_tepkisi_Ergenekon_caddesinde_16_06.mp4
+│   │   ├── Halk_TV_kameramaninin_zor_anlari_khryseissable_20130623.flv
+│   │   ├── Iste_Kahraman-Turk_polisi.._Yorgo_Angelopoulos_20130616.flv
+│   │   ├── Istiklal_Caddesinde_Polis_ALLAH_ALLAH_diye_Saldiriyor_22_06_2013_Kartal_Haber_20130622.flv
+│   │   ├── Metroda_Sahtekar_Basbakan_Diye_Bagiran_Adam_ve_Sonucu_Beya_Z_enci_20130608.mp4
+│   │   ├── mevzular_Umut_olympos_20130623.flv
+│   │   ├── Muhabir_Hatice_nin_isyani-CNNTurk_Canli_yayin-17.06.2013_23h28_Berkman_Cavusoglu_20130617.flv
+│   │   ├── Osmanbey_de_polisin_vicdansiz_gozaltisi_kerkaporta_20130616.mp4
+│   │   ├── Pois_bayilan_eylemciyi_surukleyerek_gozaltina_aliyor.mp4
+│   │   ├── POLIS_GAZETECILERI_BOYLE_GOZALTINA_ALDI_TheHaber0_20130616.flv
+│   │   ├── Polis_gostericinin_kaskini_kiriyor_gezitube_20130616.flv
+│   │   ├── Polisin_Arasinda_Sok_Sozler_Soner_altiok_20130616.flv
+│   │   ├── polisin_attigi_ses_bombasi_yakinda_patliyor_istiklal_caddesi_TheCanalize_20130616.flv
+│   │   ├── Polisin_direnisciyi_plastik_mermi_ile_gozunden_yaraladigi_an_16.06.2013_00-36_HaberHalkTV_20130615.flv
+│   │   ├── Polis_Turbanli_kadini_dovdu_Tayyip_Erdogan_buna_ne_diyecek_Ulusal_Kanal_20130616.flv
+│   │   ├── Polis-Yikilan_cadirlarda_silah_fotografi_olsa_para_eder_mi_Kartal_Haber_20130621.flv
+│   │   ├── Rumeli_Marmaris_bufe_saldirisi_ve_Tasli_AKPliler_17.06.2013_EREbusy_20130617.mp4
+│   │   ├── Sadece_Karanfil_Birakan_Halka_Saldiran_Polis_Tomasinin_Trafik_Isigini_Parcalamasi..._serhat_turker_20130622.mp4
+│   │   ├── sapanla_tas_atan_sivil_polis_Beyoglu_Istiklal_caddesi_16.06.2013._Saat_01_06.flv
+│   │   ├── taksim_meydani_gazdan_etkilenen_insanlar_videoccupy_turkiye_20130611.mp4
+│   │   ├── TOMA_Alman_hastanesine_su_sIkIyor_Elif_Domanic_20130616.mp4
+│   │   ├── toma_altindaki_direnisciye_polis_tekmesi_Elif_Ince_20130615.flv
+│   │   ├── Turkey-Police_target_every_protest_refuge,_even_Hilton_Hotel_RuptlyTV_20130615.mp4
+│   │   ├── Yenikoy_Forumuna_saldiri_Attack_to_Democratic_Forum_in_Yenikoy_20.06.2013_videoccupy_turkiye_20130620.mp4
+│   │   └── Yenikoy_Forumuna_saldiri_Attack_to_Democratic_Forum_in_Yenikoy_20.06.2013_videoccupy_turkiye_20130620.mp4.description
+│   └── Izmir
+│       └── Polislerden_topluca_dayak_yiyen_kadin_yasadiklarini_anlatiyor_20130623.flv
+├── Taksim
+│   ├── 12_haziran_2013_Sabah_Gezi_de_gune_hazirlik-June_12th,_morning_Prep._for_the_day_in_Gezi_Park_videoccupy_turkiye_20130612.mp4
+│   ├── 13_Haziran_sabah_June13th_2013_,_morning-Gezi_Parki_Taksim_videoccupy_turkiye_20130613.mp4
+│   ├── 22_Haziran_2013_Taksim_Meydani_na_Gezi_Direnisi_nde_olenlerin_anisina_karanfiller_atiliyor._istanbulda_neoluyor_20130622.mp4
+│   ├── 22_Haziran_Taksim_Meydani_Omur_Egribel_20130622.mp4
+│   ├── Alanlardayiz,_parkimizdayiz_videoccupy_turkiye_20130613.mp4
+│   ├── bu_daha_baslangic_this_is_just_the_beginning_30_mayis_may_2013_videoccupy_turkiye_20130614.mp4
+│   ├── Capulcuyum_Capulcuyuz_Capulcular_zeynep_arkok_20130618.mp4
+│   ├── Duran_Adamlar_OtekiIstanbul_20130621.mp4
+│   ├── Gezi_Park_ina_Cocuklariyla_Direnmeye_Gelen_Anneler_videoccupy_turkiye_20130613.mp4
+│   ├── Gezi_parkinda_bok_var_mi_Serdar_Akinan_20130615.mp4
+│   ├── Gezi_Parki_nda_hayat_devam_ediyor-Life_still_goes_on_at_Gezi_Park_videoccupy_turkiye_20130612.mp4
+│   ├── Gezi_Parki_nda_hayat_devam_ediyor-Life_still_goes_on_at_Gezi_Park_videoccupy_turkiye_20130612.mp4.description
+│   ├── gezi_park_ta_cuma_namazi_friday_prayer_at_gezi_park-14.06.2013_videoccupy_turkiye_20130614.mp4
+│   ├── havadan_taksim_geziparki2.mp4
+│   ├── Imece_Usulu_Yangin_Sondurmek_#occupygezi_#direngeziparki_Purofesor_20130602.flv
+│   ├── polis_geziye_dogru_ilerliyor_videoccupy_turkiye_20130611.mp4
+│   ├── Turkey_s_standing_man_silent_protest_spreads_Johny_Love_20130619.video
+│   ├── Turkish_Woodstock-A_Tour_of_Taksim_Square_and_Gezi_Park_during_the_Istanbul_Protest-June_6,_2013-Glenn_Campbell_20130608.mp4
+│   ├── Turkish_Woodstock-A_Tour_of_Taksim_Square_and_Gezi_Park_during_the_Istanbul_Protest-June_6,_2013-Glenn_Campbell_20130608.mp4.description
+│   └── Yeniden_Gezi_Parki-Back_to_Gezi_Park-Occupy_Gezi_,_1_6_2013_enheyecanliyeri61_20130601.mp4
+├── TV
+│   ├── Ben_Muftu_Esiyim_Diyen_O_Kadin_Bakin_Kim_Cikti-CHP_li_Gul_Tasli_Cenal_cikti-Gundem_Haber_20130619.flv
+│   ├── Ben_Muftu_Esiyim_Diyen_O_Kadin_Bakin_Kim_Cikti-CHP_li_Gul_Tasli_Cenal_cikti-Gundem_Haber_20130619.flv.description
+│   ├── Cenk_Akyol_un_NTV_ye_tepkisi-Mikrofonu_yere_atti_Burak_Biroglu_20130616.flv
+│   ├── Ethem_Sarisuluk_un_annesi_emniyet_guclerine_yalvariyor..._Cimbom_Tube_20130616.flv
+│   ├── GEZI_PARKI_EYLEMLERI_TEROR_SUCU_OLDU._Ulusal_Kanal_20130618.flv
+│   ├── HaberTurk_Canli_Yayininda_Tokat_Gibi_Cevap-Gerizekali_Burda_Marjinal_Yok_Medyadik_20130615.flv
+│   ├── muftu_esi_oldugunu_soyleyen_kadindan_ozur.mp4
+│   ├── Selahattin_Demirtas-BDP_Grup_Toplantisi_konusmasi_18_haziran.flv
+│   ├── Seriatci_Akit_isbasinda_Aydin,_sanatci_ve_gazetecileri_hedef_gosterdi_Ulusal_Kanal_20130618.flv
+│   ├── Tokat-Haberturk.flv
+│   ├── TOMA_nin_ezdigi_gosterici_olarak_paylasilan_o_provokator_Ak_Genclik_20130615.mp4
+│   └── Turgut_Uyar_in_Askerleriyiz-Emrah_Serbes-#DirenGeziParki_ikinciyeni_20130609.flv
+└── Uluslararasi
+    ├── Chapulcus_of_Istanbul._Gurgen_Oz-Emily_Mahringer_Em_ma_20130620.flv
+    ├── Chemical_Shower-Turkish_water_cannons_cause_skin_burns_and_insomnia_RussiaToday_20130619.mp4
+    ├── FEMEN_asks_Taksim_for_Help_Anna_Hutsol_20130611.mp4
+    ├── FEMEN_for_turkish_revolution_FEMEN_20130603.mp4
+    ├── german_solidarity_with_taksim_turkey_speech_from_Volker_Losch_and_Ruhsar_Aydogan_Cams21Kanal_20130617.flv
+    ├── german_solidarity_with_taksim_turkey_speech_from_Volker_Losch_and_Ruhsar_Aydogan_Cams21Kanal_20130617.flv.description
+    ├── Istanbul_Police_Terror_German_TV_ZDF_15.06.2013_English_subtitles_thomas_p_20130615.flv
+    ├── Istanbul_yalniz_degilsin_Kahve_Alti_20130616.mp4
+    ├── Joan_Baez_den_Gezi_Direnisi_icin_Imagine_Joan_Baez_sings_.flv
+    ├── La_Tuerka-Que_esta_pasando_en_Turquia_LaTuerka_20130612.flv
+    ├── Legalized_Brutality_Turkish_MP_says_police_conduct_within_law_RussiaToday_20130620.mp4
+    ├── lets_talk_about_penguins_supportgezi_20130608.mp4
+    ├── Los_manifestantes_turcos_eligen_el_silencio_para_una_nueva_protesta_en_la_plaza_Taksim_efe_20130619.flv
+    ├── Manu_Chao_supporting_Turkish_activists_Frag_hera_20130614.flv
+    ├── No,_I_m_not_going_to_the_world_cup._Carla_Dauden_20130617.mp4
+    ├── No,_I_m_not_going_to_the_world_cup._Carla_Dauden_20130617.mp4.description
+    ├── Occupy_Taksim-Stockholm_Flashmob-Hakan_Vreskala_gezipark_20130622.mp4
+    ├── Paul_Murphy-Avrupa_Parlamentosu-Turkce_altyazi.mp4
+    ├── Polis_Halay_Cekiyor_Koln_Halk_Mitingi_22.06.2013_KARABALI_KOYU_20130623.mp4
+    ├── Proteste_in_der_Turkei-Krieg_gegen_die_Jugend_spiegeltv_20130623.flv
+    ├── Solidarity_Action_with_the_Turkish_People_kodao_phils_20130620.flv
+    ├── StandingManFrankfurt_Germany_vanjo_20130623.mp4
+    ├── Standing_man_or_#duranadam,_the_new_symbol_of_the_protests_in_Turkey_speaks_on_Newsday_BBC_World_Service_Radio_20130618.mp3
+    ├── Stiller_Protest_am_Taksim-Platz_AmnestyDeutschland_20130619.flv
+    ├── Taksim_Square_standoff_ends_in_tear_gas_for_everyone-including_me-June_15_Gezi_Park_Crackdown-Glenn_Campbell_20130619.mp4
+    ├── Taksim_Square_standoff_ends_in_tear_gas_for_everyone-including_me-June_15_Gezi_Park_Crackdown-Glenn_Campbell_20130619.mp4.description
+    ├── Turquie-les_manifestants_de_retour_place_Taksim_euronewsfr_20130623.flv
+    ├── Turquie-les_manifestants_de_retour_place_Taksim_euronewsfr_20130623.flv.description
+    ├── Unruhen_in_der_Turkei-Gezi_Park_Teil_3_Orientalnighttv_20130617.flv
+    ├── Unruhen_in_der_Turkei-Gezi_Park_Teil_3_Orientalnighttv_20130617.flv.description
+    ├── Victoria_Chapullers_singing_National_Anthem_of_Turkey_kuntasal_20130623.flv
+    └── Yalniz_Degilsin_Turkiye,_New_York.mp4
+
+20 directories, 332 files
